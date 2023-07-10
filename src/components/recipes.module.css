@@ -1,0 +1,32 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px  black ;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #C4D7B2;
+    align-items: center;
+    width: 40%;
+    min-width: 250px;
+}
+.image{
+    /* flex-direction: row; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    /* border: 1px solid black; */
+/* justify-content: space-around;
+align-items: center; */
+}
+.containerText{
+font-weight: 600;
+margin-left: 20px;
+}
+.containerImage{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin-left: 10px;
+
+}
